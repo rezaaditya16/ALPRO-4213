@@ -120,7 +120,7 @@ int main(){
     cout << "Masukan Nilai f: ";
     cin >> f;
     string faktor = (isFactor(x,f)==1) ? "Faktor" : "Bukan Faktor";
-    cout << f << "  Adalah " << faktor <<" dari "<<x<< endl;
+    cout << f << " Adalah " << faktor <<" dari "<<x<< endl;
     cout << "==========================================";
     int a,b;
 
@@ -153,7 +153,7 @@ int main(){
     cout << "Jumlah Nilai Genap: " << sumGenap << endl;
     cout << "Jumlah Nilai Ganjil: " << sumGanjil << endl;
     cout << "==========================================";
-
+    
     //isFound
     cout << " IsFound" << endl;
     cout << "Masukkan jumlah elemen array: ";
