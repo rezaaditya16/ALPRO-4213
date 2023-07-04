@@ -37,6 +37,3 @@ int main() {
 
     return 0;
 }
-
-
-//saya lakukan terhadap array dinamis karena lebih mudah dibuat, lebih efisien dan mudah untuk menampilkan input output nya
